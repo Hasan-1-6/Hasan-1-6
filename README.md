@@ -6,11 +6,12 @@
 
 <br clear="both">
 
-<h6 align="left"> 🧪 - Loves to experiment <br>  <br>🌐 - Full Stack Web Developer - MERN Stack <br>🌲 - Currently Exploring Backend and various Database  <br>🐧- Linux Enthusiast (I use Arch, btw) <br> 💻 - Been sitting with computers since I was 4 <br> 🎮 - Video game enthusiast with a soft spot for Pixel Art <br>📩 Reach me at: hasandilshad16@gmail.com</h6>
+<h6 align="left"> 🧪 - Loves to experiment <br>🌐 - Full Stack Web Developer - MERN Stack <br>🌲 - Currently Exploring Backend and various Database  <br>🐧- Linux Enthusiast (I use Arch, btw) <br> 💻 - Been sitting with computers since I was 4 <br> 🎮 - Video game enthusiast with a soft spot for Pixel Art 
 
 ###
 
 <br clear="both">
+<br>  
 
 <h2 align="left">📫 Reach out :</h2>
 
